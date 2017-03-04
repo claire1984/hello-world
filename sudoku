@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>九宫格</title>
+	<meta name="viewpoint" content="width=device-width,initial-scale=1.0，maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+<style type="text/css">
+		.left{
+	height: 30vw;
+	width: 30vw;
+	margin:1.5vw;
+	background-color:yellow;
+	
+	border-radius: 4vw;
+
+	float: left;
+	}
+
+	.wrap{
+		width: 99vw;
+		height: 100vw;
+		margin: 0 auto;
+		padding: 0.5vw;
+	}
+	
+
+
+</style>
+
+</head>
+<body>
+<div class="wrap">
+
+<div class="left"></div>
+<div class="left"></div>
+<div class="left"></div>
+<div class="left"></div>
+<div class="left"></div>
+<div class="left"></div>
+<div class="left"></div>
+<div class="left"></div>
+<div class="left"></div>
+</div>
+
+</body>
+</html>
