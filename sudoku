@@ -19,7 +19,7 @@
 	.wrap{
 		width: 99vw;
 		height: 100vw;
-		text-align: center;
+		margin: 0 auto;
 	}
 	
 
