@@ -11,14 +11,14 @@
 	margin:1.5vw;
 	background-color:orange;
 	
-	border-radius: 4vw;
+	border-radius: 15PX;
 
 	float: left;
 	}
 
 	.wrap{
-		width: 99vw;
-		height: 100vw;
+		width: 96vw;
+		height: 96vw;
 		margin: 0 auto;
 	}
 	
@@ -28,18 +28,17 @@
 
 </head>
 <body>
-<div class="wrap">
-
-<div class="left"></div>
-<div class="left"></div>
-<div class="left"></div>
-<div class="left"></div>
-<div class="left"></div>
-<div class="left"></div>
-<div class="left"></div>
-<div class="left"></div>
-<div class="left"></div>
-</div>
+   <div class="wrap">
+      <div class="left"></div>
+      <div class="left"></div>
+      <div class="left"></div>
+      <div class="left"></div>
+      <div class="left"></div>
+      <div class="left"></div>
+      <div class="left"></div>
+      <div class="left"></div>
+      <div class="left"></div>
+  </div>
 
 </body>
 </html>
